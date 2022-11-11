@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:title="Home"
+        android:icon="@drawable/icon_home"/>
+
+    <item android:id="@+id/menu_findloads"
+        android:title="Truck"
+        android:icon="@drawable/icon_truck"/>
+
+    <item android:id="@+id/menu_calls"
+        android:title="Call"
+        android:icon="@drawable/icon_call"/>
+
+    <item android:id="@+id/menu_orders"
+        android:title="Bill"
+        android:icon="@drawable/icon_order"/>
+
+    <item android:id="@+id/menu_money"
+        android:iconTint="@color/black"
+        android:title="Money"
+        android:icon="@drawable/icon_money"/>
+
+</menu>
